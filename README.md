@@ -1,6 +1,6 @@
-# python-template-repository
+# Segmentation
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+Segmentationのexampleリポジトリです。
 
 ## リポジトリ構成
 
