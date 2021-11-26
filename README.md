@@ -31,6 +31,10 @@ Segmentationのexampleリポジトリです。
 └── work
 ```
 
+## Display notebooks
+
+- [View Jupyter notebooks in nbviewer](https://nbviewer.jupyter.org/github/ykato27/Segmentation/tree/main/notebooks/)
+
 ## 環境詳細
 
 - Google Colab
